@@ -1,0 +1,22 @@
+[
+  {
+    "name": "apple",
+    "confidence": "95.0%"
+  },
+  {
+    "name": "vegan",
+    "confidence": "77.5%"
+  },
+  {
+    "name": "delicious",
+    "confidence": "72.0%"
+  },
+  {
+    "name": "fruit",
+    "confidence": "71.5%"
+  },
+  {
+    "name": "juicy",
+    "confidence": "53.9%"
+  }
+]

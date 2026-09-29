@@ -1,0 +1,193 @@
+{
+  "milk": {
+    "product": "1L Whole Milk",
+    "stores": [
+      { "name": "Fresh Supermarket", "price": 60, "rating": 4.5, "offer": "None", "lat": 11.0068, "lng": 77.0811 },
+      { "name": "City Groceries", "price": 58, "rating": 4.2, "offer": "5% off on 2L", "lat": 11.0120, "lng": 77.0850 },
+      { "name": "Daily Needs Mart", "price": 62, "rating": 4.8, "offer": "None", "lat": 10.9980, "lng": 77.0790 }
+    ]
+  },
+  "bread": {
+    "product": "Whole Wheat Bread (400g)",
+    "stores": [
+      { "name": "Bakers Point", "price": 45, "rating": 4.7, "offer": "Buy 2 Get 1", "lat": 11.0050, "lng": 77.0800 },
+      { "name": "City Groceries", "price": 40, "rating": 4.2, "offer": "None", "lat": 11.0120, "lng": 77.0850 },
+      { "name": "Fresh Supermarket", "price": 42, "rating": 4.5, "offer": "None", "lat": 11.0068, "lng": 77.0811 }
+    ]
+  },
+  "soap": {
+    "product": "Dove Bathing Bar (100g)",
+    "stores": [
+      { "name": "Medical & General", "price": 48, "rating": 4.4, "offer": "None", "lat": 11.0080, "lng": 77.0820 },
+      { "name": "Fresh Supermarket", "price": 50, "rating": 4.5, "offer": "Buy 3 Get 1", "lat": 11.0068, "lng": 77.0811 }
+    ]
+  },
+  "toothpaste": {
+    "product": "Colgate Total (150g)",
+    "stores": [
+      { "name": "City Groceries", "price": 95, "rating": 4.2, "offer": "None", "lat": 11.0120, "lng": 77.0850 },
+      { "name": "Medical & General", "price": 90, "rating": 4.4, "offer": "10% off", "lat": 11.0080, "lng": 77.0820 }
+    ]
+  },
+  "tomato": {
+    "product": "Fresh Tomatoes (1kg)",
+    "stores": [
+      { "name": "Green Veggies Mart", "price": 30, "rating": 4.6, "offer": "None", "lat": 11.0100, "lng": 77.0890 },
+      { "name": "Fresh Supermarket", "price": 35, "rating": 4.5, "offer": "None", "lat": 11.0068, "lng": 77.0811 }
+    ]
+  },
+  "sugar": {
+    "product": "White Sugar (1kg)",
+    "stores": [
+      { "name": "Daily Needs Mart", "price": 42, "rating": 4.8, "offer": "None", "lat": 10.9980, "lng": 77.0790 },
+      { "name": "City Groceries", "price": 45, "rating": 4.2, "offer": "None", "lat": 11.0120, "lng": 77.0850 }
+    ]
+  },
+  "rice": {
+    "product": "Basmati Rice (1kg)",
+    "stores": [
+      { "name": "Fresh Supermarket", "price": 120, "rating": 4.5, "offer": "10% off", "lat": 11.0068, "lng": 77.0811 },
+      { "name": "Wholesale Mart", "price": 105, "rating": 4.3, "offer": "None", "lat": 11.0200, "lng": 77.0900 }
+    ]
+  },
+  "egg": {
+    "product": "Fresh Eggs (1 Dozen)",
+    "stores": [
+      { "name": "Daily Needs Mart", "price": 70, "rating": 4.8, "offer": "None", "lat": 10.9980, "lng": 77.0790 },
+      { "name": "City Groceries", "price": 75, "rating": 4.2, "offer": "None", "lat": 11.0120, "lng": 77.0850 }
+    ]
+  },
+  "oil": {
+    "product": "Sunflower Oil (1L)",
+    "stores": [
+      { "name": "Fresh Supermarket", "price": 145, "rating": 4.5, "offer": "Free Soap", "lat": 11.0068, "lng": 77.0811 },
+      { "name": "Wholesale Mart", "price": 138, "rating": 4.3, "offer": "None", "lat": 11.0200, "lng": 77.0900 }
+    ]
+  },
+  "onion": {
+    "product": "Red Onions (1kg)",
+    "stores": [
+      { "name": "Green Veggies Mart", "price": 40, "rating": 4.6, "offer": "None", "lat": 11.0100, "lng": 77.0890 },
+      { "name": "Daily Needs Mart", "price": 45, "rating": 4.8, "offer": "None", "lat": 10.9980, "lng": 77.0790 }
+    ]
+  },
+  "potato": {
+    "product": "Potato (1kg)",
+    "stores": [
+      { "name": "Green Veggies Mart", "price": 40, "rating": 4.6, "offer": "None", "lat": 11.0100, "lng": 77.0890 },
+      { "name": "Fresh Supermarket", "price": 45, "rating": 4.5, "offer": "None", "lat": 11.0068, "lng": 77.0811 }
+    ]
+  },
+  "carrot": {
+    "product": "Carrot (1kg)",
+    "stores": [
+      { "name": "Green Veggies Mart", "price": 60, "rating": 4.6, "offer": "None", "lat": 11.0100, "lng": 77.0890 },
+      { "name": "Daily Needs Mart", "price": 65, "rating": 4.8, "offer": "None", "lat": 10.9980, "lng": 77.0790 }
+    ]
+  },
+  "cabbage": {
+    "product": "Cabbage (1 pc)",
+    "stores": [
+      { "name": "Green Veggies Mart", "price": 30, "rating": 4.6, "offer": "None", "lat": 11.0100, "lng": 77.0890 },
+      { "name": "City Groceries", "price": 35, "rating": 4.2, "offer": "None", "lat": 11.0120, "lng": 77.0850 }
+    ]
+  },
+  "cauliflower": {
+    "product": "Cauliflower (1 pc)",
+    "stores": [
+      { "name": "Green Veggies Mart", "price": 35, "rating": 4.6, "offer": "None", "lat": 11.0100, "lng": 77.0890 },
+      { "name": "Fresh Supermarket", "price": 40, "rating": 4.5, "offer": "None", "lat": 11.0068, "lng": 77.0811 }
+    ]
+  },
+  "spinach": {
+    "product": "Spinach (1 bunch)",
+    "stores": [
+      { "name": "Daily Needs Mart", "price": 20, "rating": 4.8, "offer": "None", "lat": 10.9980, "lng": 77.0790 },
+      { "name": "Green Veggies Mart", "price": 25, "rating": 4.6, "offer": "None", "lat": 11.0100, "lng": 77.0890 }
+    ]
+  },
+  "brinjal": {
+    "product": "Brinjal (1kg)",
+    "stores": [
+      { "name": "Green Veggies Mart", "price": 45, "rating": 4.6, "offer": "None", "lat": 11.0100, "lng": 77.0890 },
+      { "name": "City Groceries", "price": 50, "rating": 4.2, "offer": "None", "lat": 11.0120, "lng": 77.0850 }
+    ]
+  },
+  "capsicum": {
+    "product": "Capsicum (500g)",
+    "stores": [
+      { "name": "Green Veggies Mart", "price": 55, "rating": 4.6, "offer": "None", "lat": 11.0100, "lng": 77.0890 },
+      { "name": "Fresh Supermarket", "price": 60, "rating": 4.5, "offer": "None", "lat": 11.0068, "lng": 77.0811 }
+    ]
+  },
+  "apple": {
+    "product": "Apple (1kg)",
+    "stores": [
+      { "name": "Fresh Supermarket", "price": 150, "rating": 4.5, "offer": "None", "lat": 11.0068, "lng": 77.0811 },
+      { "name": "City Groceries", "price": 145, "rating": 4.2, "offer": "None", "lat": 11.0120, "lng": 77.0850 }
+    ]
+  },
+  "banana": {
+    "product": "Banana (1 dozen)",
+    "stores": [
+      { "name": "Daily Needs Mart", "price": 60, "rating": 4.8, "offer": "None", "lat": 10.9980, "lng": 77.0790 },
+      { "name": "Green Veggies Mart", "price": 55, "rating": 4.6, "offer": "None", "lat": 11.0100, "lng": 77.0890 }
+    ]
+  },
+  "orange": {
+    "product": "Orange (1kg)",
+    "stores": [
+      { "name": "City Groceries", "price": 80, "rating": 4.2, "offer": "None", "lat": 11.0120, "lng": 77.0850 },
+      { "name": "Fresh Supermarket", "price": 85, "rating": 4.5, "offer": "None", "lat": 11.0068, "lng": 77.0811 }
+    ]
+  },
+  "mango": {
+    "product": "Mango (1kg)",
+    "stores": [
+      { "name": "Wholesale Mart", "price": 100, "rating": 4.3, "offer": "None", "lat": 11.0200, "lng": 77.0900 },
+      { "name": "Bakers Point", "price": 110, "rating": 4.7, "offer": "None", "lat": 11.0050, "lng": 77.0800 }
+    ]
+  },
+  "grapes": {
+    "product": "Grapes (500g)",
+    "stores": [
+      { "name": "Green Veggies Mart", "price": 70, "rating": 4.6, "offer": "None", "lat": 11.0100, "lng": 77.0890 },
+      { "name": "Daily Needs Mart", "price": 75, "rating": 4.8, "offer": "None", "lat": 10.9980, "lng": 77.0790 }
+    ]
+  },
+  "papaya": {
+    "product": "Papaya (1 pc)",
+    "stores": [
+      { "name": "Fresh Supermarket", "price": 40, "rating": 4.5, "offer": "None", "lat": 11.0068, "lng": 77.0811 },
+      { "name": "City Groceries", "price": 45, "rating": 4.2, "offer": "None", "lat": 11.0120, "lng": 77.0850 }
+    ]
+  },
+  "pomegranate": {
+    "product": "Pomegranate (1kg)",
+    "stores": [
+      { "name": "Daily Needs Mart", "price": 180, "rating": 4.8, "offer": "None", "lat": 10.9980, "lng": 77.0790 },
+      { "name": "Green Veggies Mart", "price": 185, "rating": 4.6, "offer": "None", "lat": 11.0100, "lng": 77.0890 }
+    ]
+  },
+  "basmati_rice": {
+    "product": "Basmati Rice (1kg)",
+    "stores": [
+      { "name": "Wholesale Mart", "price": 120, "rating": 4.3, "offer": "None", "lat": 11.0200, "lng": 77.0900 },
+      { "name": "Bakers Point", "price": 130, "rating": 4.7, "offer": "None", "lat": 11.0050, "lng": 77.0800 }
+    ]
+  },
+  "wheat_flour": {
+    "product": "Wheat Flour (1kg)",
+    "stores": [
+      { "name": "Medical & General", "price": 45, "rating": 4.4, "offer": "None", "lat": 11.0080, "lng": 77.0820 },
+      { "name": "Fresh Supermarket", "price": 48, "rating": 4.5, "offer": "None", "lat": 11.0068, "lng": 77.0811 }
+    ]
+  },
+  "atta": {
+    "product": "Atta (1kg)",
+    "stores": [
+      { "name": "City Groceries", "price": 50, "rating": 4.2, "offer": "None", "lat": 11.0120, "lng": 77.0850 },
+      { "name": "Daily Needs Mart", "price": 52, "rating": 4.8, "offer": "None", "lat": 10.9980, "lng": 77.0790 }
+    ]
+  }
+}
